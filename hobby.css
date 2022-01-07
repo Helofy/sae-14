@@ -1,0 +1,70 @@
+body{
+	background-color: #EDB9AD;
+}
+h1{
+	
+	text-align: center;
+	color: 	black;
+	text-shadow: 
+	0 0 60px rgba(252,252,252,0.58),
+	0 0 20px rgba(252,252,252,0.84),
+	0 0 140px rgba(252,252,252,0.15),
+	0 0 80px rgba(252,252,252,0.94);
+
+
+	
+}
+
+a{
+	 	font-weight: bold;
+	 	float: left;
+	text-align: center;
+	vertical-align: center;
+	display: inline-block;
+	width: 25%%;
+
+	padding: 1.2em 1.5em ;
+	margin-left: 3em;
+	border: 5px solid #fff;
+  border-radius: 12px;
+  box-shadow:
+    0 0 8px #fff,
+    inset 0 0 8px #fff,
+    0 0 16px #3BF5D3,
+    inset 0 0 16px #3BF5D3,
+    0 0 32px #3BF5D3,
+    inset 0 0 32px #3BF5D3; 
+color: black;
+}
+
+
+section{
+
+	margin-left: 20%;
+	width: 47%;
+	margin-top: 2em;
+	padding-bottom: 2em;
+	background-color: white;
+	display: inline-block;
+	
+	text-align: center;
+}
+.soule{ width: 20%;
+
+ }
+ h3{
+ 	font-weight: bold;
+ }
+ .ASS {
+ 	width: 20%;
+ }
+ .pass{
+ 	float: left;
+ 	margin-left: 1em;
+
+ }
+ .fait{
+ 	float: right;
+ 	margin-left: 1em;
+
+ }
